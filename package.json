@@ -1,0 +1,13 @@
+{
+  "name": "discord-bot-maker-bot",
+  "author": "BonkU & PandQ",
+  "main": "bot.js",
+  "scripts": {"start": "node bot.js"},
+  "version": "1.6.8",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "fstorm": "latest",
+    "jimp": "latest",
+    "valid-url": "^1.0.9"
+  }
+}
